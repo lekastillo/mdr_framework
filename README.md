@@ -7,3 +7,5 @@ Utilizando recopilaciones para mejorar el rendimiento y desarrollo rapido de pro
 	- FileUploads
 	- Mi propia galeria de modulos y plugins
 	- Y otras cosas mas que le pueda agregar
+
+@lekastillo
